@@ -17,7 +17,7 @@ resource "aws_instance" "web" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "HelloWorld usha"
+    Name = "HelloWorld YOGI MY"
   }
 count = 3
 }
